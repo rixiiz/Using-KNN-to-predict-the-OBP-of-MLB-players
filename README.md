@@ -2,7 +2,7 @@
 A machine learning model I built that can predict the On Base Percentage (OBP) of Major League Baseball (MLB) players at the end of the season
 This model leverages statistics from early season to estimate final OBP values
 
-Project Overview:
+Project Overview: \n
 Goal: Predict a player's end-of-season OBP using early season stats with supervised learning.
 Method: K-Nearest Neighbors regression.
 Data: 2023 MLB player stats from Baseball-Reference.
