@@ -21,9 +21,8 @@ Early-season stats provide strong signals for end-of-season OBP.
 Feature scaling is crucial due to the curse of dimensionality from using KNN.
 
 TODO:
-Compare with other models such as Linear Regression or Random Forest
-Implement cross validation
-Build a simple front-end to input live player stats and return predictions
+Build an interface and I can input the stats of a player to get the end season OBP
+Compare KNN regression with other models such as Linear Regression or Random Forest
 
 How to run:
 1. clone the repo: git clone https://github.com/rixiiz/KNN-model-to-predict-the-OBP-of-MLB-players.git   cd KNN-model-to-predict-the-OBP-of-MLB-players
