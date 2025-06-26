@@ -13,7 +13,7 @@ AVG, SLG, R to begin with. It was later determined that R was not much of a cont
 
 ## Evaluation:
 Metrics: MSE
-Elbow method: used to find the most optimal K value
+Elbow method: used to find the most optimal `K` value
 
 ## Key Insights:
 KNN performs really well on OBP prediction with the right feature normalization.
@@ -25,9 +25,9 @@ Build an interface and I can input the stats of a player to get the end season O
 Compare KNN regression with other models such as Linear Regression or Random Forest
 
 ## How to run:
-1. clone the repo: git clone https://github.com/rixiiz/KNN-model-to-predict-the-OBP-of-MLB-players.git   cd KNN-model-to-predict-the-OBP-of-MLB-players
-2. install dependencies: pip install -r requirements.txt
-3. Run the pipeline: python main.py
+1. clone the repo: `git clone https://github.com/rixiiz/KNN-model-to-predict-the-OBP-of-MLB-players.git`   `cd KNN-model-to-predict-the-OBP-of-MLB-players`
+2. install dependencies: `pip install -r requirements.txt`
+3. Run the pipeline: `python main.py`
 
 ## Contributing:
 Contributions are welcome! Feel free to open issues or submit PRs.
