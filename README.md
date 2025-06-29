@@ -21,7 +21,6 @@ AVG, SLG, R to begin with. It was later determined that R was not much of a cont
 - Feature scaling is crucial due to the curse of dimensionality from using KNN.
 
 ## TODO:
-- Build an interface and I can input the stats of a player to get the end season OBP
 - Compare KNN regression with other models such as Linear Regression or Random Forest
 
 ## How to run:
