@@ -21,7 +21,7 @@ AVG, SLG, R to begin with. It was later determined that R was not much of a cont
 - Feature scaling is crucial due to the curse of dimensionality from using KNN.
 
 ## TODO:
-- Compare KNN regression with other models such as Linear Regression or Random Forest
+- Learn all the machine learning models and train them using the stats I have here
 
 ## How to run:
 1. clone the repo: `git clone https://github.com/rixiiz/KNN-model-to-predict-the-OBP-of-MLB-players.git`   `cd KNN-model-to-predict-the-OBP-of-MLB-players`
