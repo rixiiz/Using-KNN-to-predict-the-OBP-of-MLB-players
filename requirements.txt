@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+plotly
+itertools
+collections
+sklearn
