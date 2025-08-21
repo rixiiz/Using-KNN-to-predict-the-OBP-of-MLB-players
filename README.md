@@ -19,6 +19,7 @@ AVG, SLG, R to begin with. It was later determined that R was not much of a cont
 - KNN performs really well on OBP prediction with the right feature normalization.
 - Early-season stats provide strong signals for end-of-season OBP.
 - Feature scaling is crucial due to the curse of dimensionality from using KNN.
+- All the plots can be find in the Jupyter notebook file
 
 ## TODO:
 - Learn all the machine learning models and train them using the stats I have here
