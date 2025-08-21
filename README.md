@@ -43,7 +43,7 @@ For the analysis:
 2. Open Jupyter notebook: `jupyter notebook`
 3. Click on the notebook file and run the cells
 
-For the app:<br/>0. Read the information file
+For the app:
 1. cd `OBP_Predictor_App`
 2. Install dependencies: `pip install -r apprequirements.txt`
 3. Run the app: `python app.py`
