@@ -35,7 +35,16 @@ Part 1 (analysis found in the Jupyter notebook file): learning, discovering, and
 - The comparison between linear regression and KNN wasnt clear as the KNN model was prebuilt and has optimized hyperparameters.
 - It isnt so difficult to build machine learning models from scratch
 
-## How to run:
-1. clone the repo: `git clone https://github.com/rixiiz/KNN-model-to-predict-the-OBP-of-MLB-players.git`   `cd KNN-model-to-predict-the-OBP-of-MLB-players`
-2. install dependencies: `pip install -r requirements.txt`
-3. Run the pipeline: `python main.py`
+## Repo guide:
+Clone the repo: `git clone https://github.com/rixiiz/Using-KNN-to-predict-the-OBP-of-MLB-players.git` then `cd Using-KNN-to-predict-the-OBP-of-MLB-players`
+
+For the analysis:
+1. Install dependencies: `pip install -r requirements.txt`
+2. Open Jupyter notebook: `jupyter notebook`
+3. Click on the notebook file and run the cells
+
+For the app:
+0. Read the information file
+1. cd `OBP_Predictor_App`
+2. Install dependencies: `pip install -r apprequirements.txt`
+3. Run the app: `python app.py`
