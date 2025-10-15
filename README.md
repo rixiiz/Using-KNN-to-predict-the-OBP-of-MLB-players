@@ -2,7 +2,7 @@
 I used a prebuilt KNN model to predict the On Base Percentage (OBP) of Major League Baseball (MLB) players at the end of the season given their stats in the beginning of the same season
 
 ## Project overview: 
-Part 1 (analysis found in the Jupyter notebook file): learning, discovering, and evaluating KNN<br/>Part 2 (app found in the folder): integrating the optimal KNN model into a small GUI for simple use<br/>A written paper documenting this project is attached 'KNN model.pdf'
+Part 1 (analysis found in the Jupyter notebook file): learning, discovering, and evaluating KNN<br/>Part 2 (app found in the folder): integrating the optimal KNN model into a small GUI for simple use<br/><br/>A written paper documenting this project is attached `KNN model.pdf`
 
 - Goal: Predict a player's end-of-season OBP using early season stats with supervised learning.
 - Method: K-Nearest Neighbors regression
